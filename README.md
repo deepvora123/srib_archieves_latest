@@ -1,2 +1,4 @@
 # srib_archieves_latest
-These are samsung R&amp;D, Banglore online test archieves question and answer
+These are samsung R&amp;D, Banglore online test archieves question and answer.
+
+Find previous years Samsung R&D, Banglore online test solution and contribute to this repository.
